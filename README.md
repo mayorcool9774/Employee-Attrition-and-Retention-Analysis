@@ -10,13 +10,14 @@ This project is an analytical dashboard built with **Power BI** and **Power Quer
 
 ## 📚 Table of Contents
 
+
 1. [Project Overview](#-project-overview)  
 2. [Key Insights Explored](#-key-insights-explored)  
-3. [Tools Used](#-tools-used)  
-4. [Data Transformation](#-data-transformation-power-query--dax)  
+3. [Tools Used](#tools-used)  
+4. [Data Transformation (Power Query + DAX)](#-data-transformation-power-query--dax)  
 5. [Dashboard Highlights](#-dashboard-highlights)    
-6. [Dataset](#-dataset)  
-7. [Contact](#-contact)
+6. [Dataset](#dataset)  
+7. [Contact](#contact)
 
 ---
 
@@ -36,7 +37,7 @@ Employee attrition remains a critical concern for organizations, affecting both 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI** – For dashboard creation and visualization  
 - **Power Query** – For data cleaning and transformation  
@@ -44,7 +45,7 @@ Employee attrition remains a critical concern for organizations, affecting both 
 
 ---
 
-## 🔄 Data Transformation  (Power Query + DAX)
+## 🔄 Data Transformation (Power Query + DAX)
 
 1. **Age Grouping**:  
    - Youth (20–29), Young Adults (30–39), Adults (40–49), Seniors (50+)
